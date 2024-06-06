@@ -1,0 +1,3 @@
+Cucumber
+Tomato
+Red onion
